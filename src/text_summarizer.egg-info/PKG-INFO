@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: text-summarizer
+Version: 0.0.1
+Summary: A small python package for NLP app
+Home-page: https://github.com/Dj-1000/Text-Summarizer-NLP
+Author: Dj-1000
+Author-email: djsharma1000@gmail.com
+Project-URL: Bug Tracker, https://github.com/Dj-1000/Text-Summarizer-NLP/issues
+License-File: LICENSE
+
+# Text-Summarizer-NLP
+
+## Workflows
+
+1. Update config.yaml
+2. Update params.yaml
+3. Update entity
+4. Update the configuration manager in the src config
+5. Update the components
+6. Update the pipeline
+7. Update the main.py
+8. Update the app.py

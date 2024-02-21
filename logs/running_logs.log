@@ -1,0 +1,106 @@
+[2024-02-19 16:31:25,730: INFO: main: welcome to our custom logging: ]
+[2024-02-19 16:31:41,504: INFO: main: welcome to our custom logging: ]
+[2024-02-20 16:31:48,041: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 16:34:03,076: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 16:34:23,791: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 16:36:50,612: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 16:44:36,032: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 16:45:35,960: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 16:55:46,732: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 16:59:20,535: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:26:25,619: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:27:05,504: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:31:09,802: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:31:09,802: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2024-02-20 17:32:57,568: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:35:37,872: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:36:35,248: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:37:36,721: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:41:14,201: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:42:04,732: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:44:11,502: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:44:11,512: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2024-02-20 17:44:11,514: INFO: common: created directory at: {path}: ]
+[2024-02-20 17:44:11,516: INFO: common: created directory at: {path}: ]
+[2024-02-20 17:46:32,053: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:46:32,056: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2024-02-20 17:46:32,057: INFO: common: created directory at: {path}: ]
+[2024-02-20 17:46:32,058: INFO: common: created directory at: {path}: ]
+[2024-02-20 17:47:44,842: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:47:44,845: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2024-02-20 17:47:44,846: INFO: common: created directory at: {path}: ]
+[2024-02-20 17:47:44,848: INFO: common: created directory at: {path}: ]
+[2024-02-20 17:48:01,598: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:48:01,601: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2024-02-20 17:48:01,602: INFO: common: created directory at: {path}: ]
+[2024-02-20 17:48:01,604: INFO: common: created directory at: {path}: ]
+[2024-02-20 17:56:30,599: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 17:56:30,602: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2024-02-20 17:56:30,604: INFO: common: created directory at: artifacts: ]
+[2024-02-20 17:56:30,606: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2024-02-20 18:02:01,719: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-20 18:02:01,724: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2024-02-20 18:02:01,738: INFO: common: created directory at: artifacts: ]
+[2024-02-20 18:02:01,740: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2024-02-20 18:02:05,566: INFO: 499299850: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 4194846
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "9a3c592b55241e620b1da403f7e77ffea3b0c0fb108732e3bd4ccb6b798e78a9"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A688:265D1:D6C89:111649:65D49BC3
+Accept-Ranges: bytes
+Date: Tue, 20 Feb 2024 12:32:04 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10228-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1708432323.458564,VS0,VE963
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 22222ce2cf67fa423f09f69823d53ac6de62f9c8
+Expires: Tue, 20 Feb 2024 12:37:04 GMT
+Source-Age: 1
+
+: ]
+[2024-02-21 17:27:48,110: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<: ]
+[2024-02-21 17:27:48,110: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2024-02-21 17:27:48,131: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2024-02-21 17:27:48,131: INFO: common: created directory at: artifacts: ]
+[2024-02-21 17:27:48,131: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2024-02-21 17:27:50,682: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 4194846
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "9a3c592b55241e620b1da403f7e77ffea3b0c0fb108732e3bd4ccb6b798e78a9"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2EFA:263ED:1D2185:250A93:65D5E53C
+Accept-Ranges: bytes
+Date: Wed, 21 Feb 2024 11:57:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10251-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1708516669.189147,VS0,VE522
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e17a5b9d46659fbd70c70f5d39e5e6982aaa56b0
+Expires: Wed, 21 Feb 2024 12:02:49 GMT
+Source-Age: 0
+
+: ]
+[2024-02-21 17:27:50,765: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x: ]
